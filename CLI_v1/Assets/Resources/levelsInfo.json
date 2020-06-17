@@ -1,0 +1,68 @@
+[
+  {
+    "LevelName": "Nivel 1",
+    "InitialSquare": {
+      "Row": 2,
+      "Column": 0
+    },
+    "Path": ["N", "E", "E", "S", "S", "E", "E", "N", "E", "E", "E", "N", "E", "E"],
+	"MaxTurrets": 5,
+	"TotalWaves": 2,
+	"EnemiesPerWave": 3
+  },
+  {
+    "LevelName": "Nivel 2",
+    "InitialSquare": {
+      "Row": 1,
+      "Column": 0
+    },
+    "Path": ["S", "E", "E", "S", "E", "E", "E", "N", "O", "N", "N", "E", "E", "E", "S", "E", "S", "S", "E"],
+	"MaxTurrets": 6,
+	"TotalWaves": 2,
+	"EnemiesPerWave": 4
+  },
+  {
+    "LevelName": "Nivel 3",
+    "InitialSquare": {
+      "Row": 4,
+      "Column": 1
+    },
+    "Path": ["E", "N", "N", "O", "N", "N", "E", "E", "E", "S", "E", "S", "S", "O", "S", "E", "E", "E", "N", "N", "E", "E"],
+	"MaxTurrets": 8,
+	"TotalWaves": 3,
+	"EnemiesPerWave": 4
+  },
+  {
+    "LevelName": "Nivel 4",
+    "InitialSquare": {
+      "Row": 4,
+      "Column": 0
+    },
+    "Path": ["N", "N", "E", "E", "S", "E", "E", "N", "N", "O", "N", "E", "E", "E", "E", "S", "S", "E", "E"],
+	"MaxTurrets": 8,
+	"TotalWaves": 3,
+	"EnemiesPerWave": 3
+  },
+  {
+    "LevelName": "Nivel 5",
+    "InitialSquare": {
+      "Row": 0,
+      "Column": 1
+    },
+    "Path": ["S", "O", "S", "S", "E", "E", "E", "N", "N", "E", "E", "E", "S", "E", "E", "S", "E"],
+	"MaxTurrets": 6,
+	"TotalWaves": 4,
+	"EnemiesPerWave": 2
+  },
+  {
+    "LevelName": "Nivel 6",
+    "InitialSquare": {
+      "Row": 0,
+      "Column": 0
+    },
+    "Path": ["E", "E", "S", "S", "O", "O", "S", "S", "E", "E", "E", "E", "N", "N", "E", "E", "E", "N", "E", "E"],
+	"MaxTurrets": 7,
+	"TotalWaves": 3,
+	"EnemiesPerWave": 3
+  }
+]

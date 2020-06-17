@@ -1,0 +1,38 @@
+[
+  {
+    "TurretName": "Antivirus",
+    "AttacksNumber": 1,
+	"CorruptionPercent": 100,
+	"AttackSpeed": 2.0,
+	"Gold": 30,
+	"BuildDelay": 0,
+	"AttacksDamage": 1
+  },
+  {
+    "TurretName": "Firewall",
+    "AttacksNumber": 1,
+	"CorruptionPercent": 100,
+	"AttackSpeed": 1.5,
+	"Gold": 20,
+	"BuildDelay": 0,
+	"AttacksDamage": 2
+  },
+  {
+    "TurretName": "Honeypot",
+    "AttacksNumber": 1,
+	"CorruptionPercent": 100,
+	"AttackSpeed": 1.5,
+	"Gold": 60,
+	"BuildDelay": 0,
+	"AttacksDamage": 1
+  },
+  {
+    "TurretName": "IPS",
+    "AttacksNumber": 1,
+	"CorruptionPercent": 100,
+	"AttackSpeed": 0.8,
+	"Gold": 50,
+	"BuildDelay": 0,
+	"AttacksDamage": 2
+  }
+]

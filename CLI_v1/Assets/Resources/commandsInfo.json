@@ -1,0 +1,38 @@
+[
+  {
+    "CommandName": "ls",
+	"Structure": "ls / ls 'turretType'",
+    "Description": "Display the information of all the turrets (ls) or the turrets of a specific type (ls 'turretType')",
+    "Example": "ls || ls turretType1"
+  },
+  {
+    "CommandName": "man",
+	"Structure": "man",
+    "Description": "Show all the information of the different commands that the player can use",
+    "Example": "man"
+  },
+  {
+    "CommandName": "touch",
+	"Structure": "touch 'turretType' 'position'",
+    "Description": "Create a turret of the type indicated in a specific position of the map",
+    "Example": "touch turretType1 A2"
+  },
+  {
+    "CommandName": "rm",
+	"Structure": "rm / rm 'position'",
+    "Description": "Remove all the turrets of the map (rm) or a specific object (rm 'position')",
+    "Example": "rm || rm C5"
+  },
+  {
+    "CommandName": "mv",
+	"Structure": "mv 'initialPosition' 'finalPosition'",
+    "Description": "Change the position of a turret, from 'initialPosition' to 'finalPosition'",
+    "Example": "mv A2 B4"
+  },
+  {
+    "CommandName": "info",
+	"Structure": "info / info 'turretType'",
+    "Description": "It shows the data referring to the different types of turrets",
+    "Example": "info || info turretType1"
+  }
+]
